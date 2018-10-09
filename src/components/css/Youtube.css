@@ -1,0 +1,24 @@
+.movieBin {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.movie {
+  margin-top: 15px;
+  width: 275px;
+}
+
+.thumb {
+  width: 274px;
+}
+
+.vidbtn{
+    display: flex;
+    justify-content: center;
+    color:#fff;
+}
+
+.vidbtn:hover {
+    color:#fff;
+}
